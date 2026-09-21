@@ -1,1 +1,0 @@
-bin/finance-probe filter=lfs diff=lfs merge=lfs -text
